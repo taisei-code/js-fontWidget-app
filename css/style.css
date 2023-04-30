@@ -1,0 +1,19 @@
+body {
+  max-width: 90%;
+  margin: 0 auto;
+  padding-top: 40px;
+}
+
+.font-widget-wrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.font-widget-wrapper button {
+  margin-left: 30px;
+}
+
+.tokyo-welcome {
+  font-size: 40px;
+}
