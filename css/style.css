@@ -15,5 +15,13 @@ body {
 }
 
 .tokyo-welcome {
-  font-size: 25px;
+  font-size: 50px;
+}
+
+.tokyo-welcome[data-font-size="大"] {
+	font-size: 100px;
+}
+
+.tokyo-welcome[data-font-size="小"] {
+	font-size: 25px;
 }
